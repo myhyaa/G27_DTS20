@@ -226,6 +226,18 @@ header {
   color: white;
 }
 
+.lesson-icon img {
+  cursor:pointer;
+  -webkit-transition:all .4s linear;
+  transition:all .4s linear;
+}
+
+.lesson-icon:hover img {
+  -ms-transform:scale(1.2);
+  -webkit-transform:scale(1.2);
+  transform:scale(1.2);
+}
+
 .text-contents {
   width: 80%;
   display: inline-block;
