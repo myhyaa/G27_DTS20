@@ -40,8 +40,9 @@ a {
   background-size: cover;
 /*   color: white; */
   text-align: center;
+  position: relative;
   /* background-attachment: fixed; */
-  background-position: center;
+/*   background-position: center; */
 }
 
 .top-wrapper h1 {
